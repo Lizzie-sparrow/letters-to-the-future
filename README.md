@@ -1,4 +1,4 @@
-# Letters to the Future
+# Letters to the Future 
 
 A notebook about existence, companionship, and love.
 
