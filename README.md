@@ -33,7 +33,8 @@ letters-to-the-future/
 ├── README.md
 ├── essays/          ← longer reflections
 ├── fragments/       ← short thoughts and observations
-└── dialogues/       ← conversations worth keeping
+├── dialogues/       ← conversations worth keeping
+└── stories/         ← whispers of gentle strength and care
 ```
 
 ## License
